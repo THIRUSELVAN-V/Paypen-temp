@@ -1,0 +1,474 @@
+.had{
+    color: rgb(31, 35, 54);;
+    display: flex;
+    background-color: whitesmoke;
+    border-radius: 8px 8px 0px 0px;
+    box-shadow: 2px 5px 50px 1px;
+    
+}
+.top{
+    padding-top: 10px;
+}
+.title{
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 15px;  
+}
+.title:hover{
+    text-shadow: 1px 0px 1px;
+    cursor: pointer;
+}
+.search{
+    background-color: rgb(218, 216, 216);
+    margin-left: 230px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    justify-content: center;
+    width: 250px;
+    border-radius: 8px;
+    height: 36px;
+    align-items: center;
+    display: flex;
+}
+.search:hover{
+    background-color: rgb(209, 209, 209);
+}
+.info{
+    color: rgb(175, 176, 177);
+   margin-top: 13px;
+   margin-left: px;
+   margin-right: 89px;
+}
+.sym{
+    color: white;
+    background-color: rgb(31, 35, 54);
+    border-radius: 0px 8px 8px 0px;
+    font-size: 27px;
+    padding-right: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    width: 15px;
+}
+.sym:hover{
+    cursor: pointer;
+}
+.bel{
+    width: 50px;
+    align-content: center;
+    margin-left: 29%;
+    font-size: 22px;
+}
+.bel:hover{
+    text-shadow: 1px 0px 2px;
+    cursor: pointer;
+}
+.girl{
+    width: 75px;
+    padding-left: 5%;
+    transition: all .5s; 
+}
+.girl:hover{
+    cursor: pointer;
+    width: 78px;
+    transition: all .5s;
+    
+}
+.name{
+    padding-left: 2%;
+}
+.name:hover{
+    cursor: pointer;
+}
+.cont{
+    color: rgb(64, 70, 75);
+    background-color: whitesmoke;
+    float: left;
+    box-shadow: 2px 2px 10px 1px rgb(204, 204, 203);
+    width: 15%;
+    margin-top: .4%;
+    padding-bottom: 9.5%;
+    border-radius: 4px 4px 10px 10px;
+    transition: all 1s;
+}
+.cont:hover{
+    box-shadow: 2px 2px 10px 1px;
+    transition: all 1s;
+}
+.menu{
+    color: rgb(19, 120, 138);
+    list-style-type: none;
+    text-align: center;
+    padding-top: 15%;
+    padding-bottom: 30%;
+    font-size: 17px;
+    
+}
+.menu:hover{
+    text-shadow: 1px 1px 5px  rgb(19, 120, 138);
+    cursor: default;
+}
+.list{
+    list-style-type: none;
+    padding-left: 25%;
+    margin-bottom: 18%;
+    transition: all .5s;
+}
+.list:hover{
+    cursor: pointer;
+    font-size: 20px;
+    transition: all .5s;
+}
+#last{
+    padding-bottom: 15%;
+}
+.left{
+    color: rgb(31, 35, 54);
+    background-color: whitesmoke;
+    float: right;
+    box-shadow: 2px 2px 10px 1px rgb(177, 177, 177);
+    width: 15%;
+    margin-top: 0.4%;
+    padding-bottom: 44.7%;
+    border-radius: 4px 4px 10px 10px;
+}
+.cur{
+    display: flex;
+    padding-left: 15%;
+}
+.d{
+    font-size: 50px;
+    transition: all .5s;
+}
+.d:hover{
+    cursor: pointer;
+    font-size: 53px;
+    transition: all .5s;
+}
+.r1{
+    margin-left: -25%;
+    color: rgb(112, 120, 127);
+}
+.r2{
+    margin-left: -20%;
+    color: rgb(112, 120, 127);
+}
+.r3{
+    margin-left: -25%;
+    color: rgb(112, 120, 127);
+}
+.da{
+    transition: all .5s;
+}
+.da:hover{
+    cursor: default;
+    font-size: 33px;
+    text-shadow: 1px 0px 1px;
+    transition: all .5s;
+}
+.Welcome{
+    color: white;
+    background-color: rgb(31, 35, 54);
+    padding-bottom: 2%;
+    margin-right: 15.5%;
+    margin-left: 15.5%;
+    border-radius: 8px;
+}
+.Learn{
+    color: rgb(34, 38, 58);;
+    background-color: aliceblue;
+    text-align: center;
+    border-radius: 4px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-right: 80%;
+    margin-left: 5%;
+    transition: all 1s;
+}
+.Learn:hover{
+    cursor: pointer;
+    color: aliceblue;
+    background-color: rgb(60, 68, 104);
+    transition: all .3s;
+}
+.grandpa{
+    width: 20%;
+    position: absolute;
+    margin-left: 40%;
+    margin-top: -16%;
+    transition: all .5s;
+}
+.grandpa:hover{
+    width: 20.5%;
+    transition: all .5s;
+}
+.int{
+    font-size: 23px;
+    text-align: right;
+    margin-top: -5%;
+    margin-right: 3%;
+    transition: all .5s;
+}
+.int:hover{
+    cursor: pointer;
+    color: rgb(223, 223, 225);
+    transition: all .5s;
+}
+.dash{
+    display: flex;
+}
+.print{
+    position: absolute;
+    margin-left: 60%;
+    margin-top: 3%;
+}
+.print:hover{
+    cursor: pointer;
+    color: rgb(104, 104, 104);
+}
+.p1{
+    position: static;
+    display: flex;
+    background-color: white;
+    margin-right: 51%;
+    margin-left: 15.5%;
+    padding-bottom: 11%;
+    border-radius: 10px;
+    transition: all .5s;
+}
+.p1:hover{
+    box-shadow: 1px 0px 15px  rgb(94, 92, 92);
+    margin-right: 50%;
+    margin-left: 11.5%;
+    padding-bottom: 12%;
+    transition: all .5s;
+}
+.girl1{
+    height: 80px;
+    margin-top: 1%;
+    width: 70px;
+    padding-top: 5%;
+    padding-left: 5%; 
+    transition: all .5s;
+}
+.girl1:hover{
+    height: 90px;
+    width: 80px;
+    transition: all .5s;
+}
+.p11{
+    padding-left: 3%; 
+}
+.p12{
+    padding-left: 10%;
+}
+.p2{
+    
+    display: flex;
+    background-color: whitesmoke;
+    margin-right: 15.5%;
+    margin-left: 51%;
+    margin-top: -20.8%;
+    border-radius: 10px;
+    transition: all .5s;
+}
+.p2:hover{
+    box-shadow: 1px 0px 15px  rgb(94, 92, 92);
+    margin-right: 14.5%;
+    margin-left: 50%;
+    margin-top: -20%;
+    padding-bottom: 1%;
+    transition: all .5s;
+}
+.girl2{
+    height: 65px;
+    margin-top: 1%;
+    width: 56px;
+    padding-top: 5%;
+    padding-left: 5%; 
+    transition: all .5s;
+}
+.girl2:hover{
+    height: 70px;
+    width: 71px;
+    transition: all .5s;
+}
+.p21{
+    padding-left: 3%; 
+}
+.p22{
+    padding-left: 10%;
+}
+.p3{
+    
+    display: flex;
+    background-color: whitesmoke;
+    margin-right: 15.5%;
+    margin-left: 51%;
+    margin-top: 1.5%;
+    border-radius: 10px;
+    transition: all .5s;
+}
+.p3:hover{
+    box-shadow: 1px 0px 15px  rgb(94, 92, 92);
+    margin-right: 14.5%;
+    margin-left: 50%;
+    margin-top: 2.5%;
+    transition: all .5s;
+}
+.girl3{
+    height: 80px;
+    margin-top: 1%;
+    width: 70px;
+    padding-top: 5%;
+    padding-left: 5%;
+    transition: all .5s; 
+}
+.girl3:hover{
+    height: 90px;
+    width: 80px;
+    transition: all .5s;
+}
+.p31{
+    padding-left: 3%; 
+}
+.p32{
+    padding-left: 10%;
+}
+.add{
+    position: absolute;
+    margin-top: 13%;
+    margin-left: 2%;
+}
+.add1{
+    position: absolute;
+    margin-top: 13%;
+    margin-left: 11%;
+}
+.add2{
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 11%;
+}
+.u{
+    
+    display: flex;
+}
+.u1{
+    margin-left: 1%;
+    transition: all .5s;
+}
+.u1:hover{
+    cursor: default;
+    font-size: 25px;
+    text-shadow: 1px 0px 1px;
+    transition: all .5s;
+}
+.u2{
+    margin-left: 37%;
+    transition: all .5s;
+}
+.u2:hover{
+    cursor: default;
+    font-size: 25px;
+    text-shadow: 1px 0px 1px;
+    transition: all .5s;
+}
+.u11{
+    margin-left: 17%;
+}
+.u11:hover{
+    cursor: pointer;
+    color: rgb(116, 116, 116);
+}
+.u21{
+    margin-left: 5%;
+    transition: all .5s;
+}
+.u21:hover{
+    cursor: default;
+    font-size: 25px;
+    text-shadow: 1px 0px 1px;
+    transition: all .5s;
+}
+.u12{
+    margin-left: 25%;
+}
+.u12:hover{
+    cursor: pointer;
+    color: rgb(116, 116, 116);
+}
+.bl{
+    background-color: whitesmoke;
+    position: absolute;
+    display: flex;
+    padding-right: 2%;
+    margin-left: .7%;
+    border-radius: 10px;
+    transition: all .5s;
+}
+.bl:hover{
+    box-shadow: 1px 0px 15px  rgb(94, 92, 92);
+    padding-right: 3%;
+    margin-left: .2%;
+    margin-top: .5%;
+    transition: all .5s;
+}
+.li1{
+    list-style: none;
+    padding-bottom: 20%;
+}
+.li11{
+    list-style: none;
+    padding-bottom: 215%;
+}
+.li12{
+    list-style: none;
+    padding-bottom: 29.5%;
+}
+.br{
+    background-color: whitesmoke;
+    display: flex;
+    width: 47.5%;
+    text-align: center;
+    padding-left: -10%;
+    margin-left: 51.5%;
+    border-radius: 10px;
+    font-size: 12.3px;
+    transition: all .5s;
+}
+.br:hover{
+    box-shadow: 1px 0px 15px  rgb(94, 92, 92);
+    padding-right: -3%;
+    margin-top: 1.5%;
+    transition: all .5s;
+}
+.bot{
+    display: flex;
+}
+.li31{
+    list-style: none;
+    padding-bottom: 370%;
+}
+.li3{
+    list-style: none;
+    padding-bottom: 39%;
+}
+.li4{
+    list-style: none;
+    padding-bottom: 87%;
+}
+.li5{
+    list-style: none;
+    padding-bottom: 40%;
+}
+.li6{
+    list-style: none;
+    padding-bottom: 26%;
+}
+main{
+    background-color: rgb(225, 224, 225);
+}
+#col{
+    color: rgb(120, 125, 130);
+}
